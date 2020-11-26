@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:12
 
 # создание директории приложения
 WORKDIR /usr/src/app
